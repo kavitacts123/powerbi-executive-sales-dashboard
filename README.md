@@ -1,33 +1,54 @@
-# Executive Sales Performance Dashboard
+# 📊 Executive Sales Performance Dashboard
 
-## Project Overview
-This Power BI dashboard provides executive-level insights into:
-- Total Sales
-- Profit
-- Orders
-- Sales by City
-- Payment Method Analysis
-- Sales vs Target
+Interactive one-page Power BI dashboard for analyzing sales performance, profit, orders, and city-wise insights.
 
-## Tools Used
+---
+
+## 🖼 Dashboard Preview
+
+![Dashboard](Images/dashboard-preview.png)
+
+---
+
+## 🚀 Features
+
+- KPI Cards
+- Monthly Sales Analysis
+- City-wise Sales Comparison
+- Payment Method Insights
+- Sales vs Target Tracking
+- Interactive Filters
+
+---
+
+## 🛠 Tools Used
+
 - Power BI
+- Excel
 - DAX
 - Power Query
-- Data Visualization
 
-## Key Insights
+---
+
+## 📂 Files Included
+
+| File | Description |
+|------|-------------|
+| `.pbix` | Power BI dashboard |
+| `.xlsx` | Dataset |
+| `Images/` | Dashboard screenshots |
+
+---
+
+## 📈 Key Insights
+
 - Mumbai generated highest sales
-- Debit Card was the most used payment method
-- Monthly sales trends identified
+- Debit Card dominated transactions
+- Sales targets tracked city-wise
+- Monthly sales fluctuations identified
 
-## Dashboard Preview
-![Dashboard](bg3.jpg)
+---
 
-## Features
-- Interactive slicers
-- KPI Cards
-- Geographic analysis
-- Sales trend analysis
+## 📬 Author
 
-## Author
-Kavita
+Kavita 
