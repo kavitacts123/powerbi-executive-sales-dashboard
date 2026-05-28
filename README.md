@@ -21,7 +21,7 @@ This Power BI dashboard provides executive-level insights into:
 - Monthly sales trends identified
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](bg3.jpg)
 
 ## Features
 - Interactive slicers
@@ -30,4 +30,4 @@ This Power BI dashboard provides executive-level insights into:
 - Sales trend analysis
 
 ## Author
-Your Name
+Kavita
