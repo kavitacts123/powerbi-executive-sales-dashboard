@@ -6,7 +6,7 @@ Interactive one-page Power BI dashboard for analyzing sales performance, profit,
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](Images/dashboard-preview.png)
+![Dashboard](dashboard-preview.png)
 
 ---
 
